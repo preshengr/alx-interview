@@ -1,4 +1,3 @@
-```
 # ALX INTERVIEW
 
 Welcome to the **ALX INTERVIEW** repository! This repository contains solutions to a variety of interview preparation tasks and challenges, specifically tailored for the **ALX Software Engineering** program. Each task is organized into its own folder with solutions written in Python, C, or other relevant programming languages.
@@ -135,4 +134,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Happy Coding!**
-```
