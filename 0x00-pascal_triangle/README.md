@@ -1,5 +1,3 @@
-Here's a structured README file based on your article:
-
 ---
 
 # Pascal's Triangle
