@@ -1,7 +1,7 @@
 0x01. Lockboxes
 ===============
 
-- By Terry Wambui
+- By Precious Amaechi
 
 Requirements
 ------------
